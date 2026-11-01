@@ -9,11 +9,13 @@ Welcome to my official repository for Lab 2. This repository contains all the co
 * Application Framework: Python, Flask
 
 ## Project Directory Structure
+```text
 DevOps-Lab2/
+│
 ├── app.py              # Main Flask web application code
 ├── requirements.txt    # Python dependencies (Flask)
 ├── Dockerfile          # Instructions to build the Docker container image
-├── deployment.yaml     # Kubernetes Deployment configuration (Replicas and Pods)
+├── deployment.yaml     # Kubernetes Deployment configuration (Replicas & Pods)
 └── service.yaml        # Kubernetes Service configuration (NodePort)
 
 ## Step-by-Step Execution Guide
