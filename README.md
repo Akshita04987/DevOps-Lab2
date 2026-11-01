@@ -9,7 +9,6 @@ Welcome to my official repository for Lab 2. This repository contains all the co
 * Application Framework: Python, Flask
 
 ## Project Directory Structure
-```text
 DevOps-Lab2/
 │
 ├── app.py              # Main Flask web application code
