@@ -44,7 +44,3 @@ kubectl get pods
 * Local Container Test: Successfully verified via browser showing "Hello from DevOps Lab 2!".
 * Kubernetes Pods: Running instances successfully verified through kubectl get pods.
 * Replica Scaling: Scaled up smoothly to multiple active replicas.
-
-Student Details:
-* Name: Akshita Sharma
-* Course: DevOps and Automation Lab (ENSP461)
